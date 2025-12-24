@@ -1,0 +1,11 @@
+# .gitignore
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+.env
+venv/
+.vscode/
+
+# Ignore data files (opsional, tapi disarankan jika data >100MB)
+# Kita un-comment jika data terlalu besar nanti
+# data/
